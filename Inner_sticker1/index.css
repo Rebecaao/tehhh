@@ -92,3 +92,9 @@
 /* .BD6{
     margin-
 } */
+
+@media print{
+    button{
+        display: none;
+    }
+}
