@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pai{
+    position: relative;
+    height: 30mm;
+    width: 45mm;
+    background-color: aqua;
+    margin: 1mm;
+}
+
+.D11{
+    position: absolute;
+    width: 6.72mm;
+    height:2.75mm ;
+    left: 5.00mm;
+    bottom: 25.00mm;
+    font-size: 7pt;
+    background-color: rgb(70, 70, 180);
+    border: 0.2px solid black;
+}
+
+.D48{
+    position: absolute;
+    width: 11.53mm;
+    height:2.75mm ;
+    left: 15.00mm;
+    bottom: 25.00mm;
+    font-size: 7pt;
+    background-color: rgb(70, 70, 180);
+    border: 0.2px solid black;
+}
+
+.D12{
+    position: absolute;
+    width: 10.56mm;
+    height:2.75mm ;
+    right: 5.00mm;
+    bottom: 25.00mm;
+    font-size: 7pt;
+    background-color: rgb(70, 70, 180);
+    border: 0.2px solid black;
+}
+
+.BD4{
+    position: absolute;
+    width: 37.26mm;
+    height:4.00mm ;
+    left: 5.00mm;
+    bottom: 19.99mm;
+    font-size: 7pt;
+    background-color: rgb(70, 70, 180);
+    border: 0.2px solid black;
+}
+
+.D13{
+    position: absolute;
+    width: 31.39mm;
+    height:3.15mm ;
+    left: 7.00mm;
+    bottom: 15.00mm;
+    font-size: 8pt;
+    background-color: rgb(70, 70, 180);
+    border: 0.2px solid black;
+}
+
+.D50{
+    position: absolute;
+    width: 5.21mm;
+    height:2.75mm ;
+    left: 5.00mm;
+    bottom: 10.95mm;
+    font-size: 8pt;
+    background-color: rgb(70, 70, 180);
+    border: 0.2px solid black;
+}
+
+
+.container-teste{
+    display: flex;
+    position: absolute;
+    top: 20mm;
+    background-color: brown;
+    width: 45mm;
+    justify-content: center;
+    font-size: 8pt;
+}
+
+/* .BD6{
+    margin-
+} */
