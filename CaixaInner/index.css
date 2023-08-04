@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pai{
+    position: relative;
+    height: 30mm;
+    width: 45mm;
+    background-color: aqua;
+}
+
+.D14{
+    position: absolute;
+    width: 10.29mm;
+    height:1.97mm ;
+    left: 2.00mm;
+    bottom: 27.20mm;
+    font-size: 5pt;
+    background-color: rgb(70, 70, 180);
+
+}
+
+.D19{
+    position: absolute;
+    width: 7.35mm;
+    height:1.97mm ;
+    left: 33.00mm;
+    bottom: 27.20mm;
+    font-size: 5pt;
+    background-color: rgb(179, 179, 211);
+}
+
+.BD5{
+    position: absolute;
+    width: 37.26mm;
+    height:4.00mm ;
+    left: 3.00mm;
+    bottom: 22.98mm;
+    font-size: 5pt;
+    background-color: rgb(62, 62, 160);
+
+}
+
+.D18{
+    position: absolute;
+    width: 19.62mm;
+    height:1.97mm ;
+    left: 11.00mm;
+    bottom: 20.76mm;
+    font-size: 5pt;
+    background-color: rgb(104, 104, 165);
+}
+
+.D20{
+    position: absolute;
+    width: 9.60mm;
+    height:1.97mm ;
+    left: 2.00mm;
+    bottom: 18.61mm;
+    font-size: 5pt;
+    background-color: blue;
+}
+
+.BD7{
+    position: absolute;
+    width: 37.26mm;
+    height:4.00mm ;
+    left: 3.00mm;
+    bottom: 14.59mm;
+    font-size: 5pt;
+    background-color: rgb(65, 65, 110);
+}
+
+.D21{
+    position: absolute;
+    width: 19.62mm;
+    height:1.97mm ;
+    left: 10.50mm;
+    bottom: 12.31mm;
+    font-size: 5pt;
+    background-color: rgb(14, 14, 141);
+}
+
+.D49{
+    position: absolute;
+    width: 6.19mm;
+    height:1.57mm ;
+    left: 30.00mm;
+    bottom: 10.00mm;
+    font-size: 5pt;
+    background-color: rgb(28, 28, 194);
+}
+
+
+
+
+.BD8{
+    position: absolute;
+    width: 29.04mm;
+    height:8.00mm ;
+    right: 15.50mm;
+    top: 20.30mm;
+    font-size: 5pt;
+    background-color: rgb(81, 182, 89);
+}
+
+.D22{
+    position: absolute;
+    width: 1.57mm;
+    height:3.15mm ;
+    top: 9.31mm;
+    left: 60mm;
+    font-size: 8pt;
+    background-color: rgb(150, 13, 13);
+}
+
+.D23{
+    position: absolute;
+    width: 1.57mm;
+    height:3.15mm ;
+    left: 2.13mm;
+    top: 5.31mm;
+    font-size: 8pt;
+    background-color: rgb(143, 175, 146);
+}
+
+.D24{
+    position: absolute;
+    width: 1.57mm;
+    height:3.15mm ;
+    left: 2.13mm;
+    top: 5.31mm;
+    font-size: 8pt;
+    background-color: rgb(143, 175, 146);
+}
+
+.D47{
+    position: absolute;
+    width: 9.17mm;
+    height:1.57mm ;
+    left: 30.00mm;
+    bottom: 8.00mm;
+    font-size: 4pt;
+    background-color: rgb(143, 175, 146);
+}
+
+.D25{
+    position: absolute;
+    width: 13.33mm;
+    height:1.97mm ;
+    left: 30.34mm;
+    bottom: 5.59mm;
+    font-size: 5pt;
+    background-color: rgb(143, 175, 146);
+}
+
+.D46{
+    position: absolute;
+    width: 6.76mm;
+    height:1.97mm ;
+    left: 30.36mm;
+    bottom: 2.74mm;
+    font-size: 5pt;
+    background-color: rgb(143, 175, 146);
+}
